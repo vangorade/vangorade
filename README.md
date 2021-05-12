@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vangorade
 - 👀 I’m interested in MLOps
 - 🌱 I’m currently learning NLP
-- 💞️ I’m looking currently for ML internships
+- 💞️ I’m currently  looking for ML internships
 - 📫 Reach out to me vangorade@gmail.com
 
 <!---
