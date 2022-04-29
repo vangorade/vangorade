@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vangorade
-- 🌱 My Research Interest Application of AI to Healthcare
+- 🌱 My Research Interest is Application of deep learning to Medical Imaging
 - 📫 Reach out to me vangorade@gmail.com
  
 <!---
