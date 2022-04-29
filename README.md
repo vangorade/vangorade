@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @vangorade
-- 👀 I’m interested in AI research and Engineering
-- 🌱 I’m currently working on medical AI
-- 💞️ I’m currently looking for ML internships
+- 🌱 My Research Interest Application of AI to Healthcare
 - 📫 Reach out to me vangorade@gmail.com
  
 <!---
